@@ -1,0 +1,14 @@
+body {
+	background-color: blue;
+	height: 100%;
+}
+
+div {
+	background-color: white;
+	text-align: center;
+	width: 80%;
+	margin: auto;
+	height: 100vh;
+	/*100vh vertical horizon*/
+	padding-top: 5%;
+}
